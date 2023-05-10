@@ -1,2 +1,2 @@
 # Scene-Understanding
-Using VGG16 to classify whether an image were taken indoor or outdoor.
+Doing Classification on images to detect if those images were taken indoor or outdoor.
